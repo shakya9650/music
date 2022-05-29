@@ -100,7 +100,7 @@ export class CharacterControls {
             this.model.position.z += moveZ
             this.updateCameraTarget(moveX, moveZ)
 
-            this.model.position.set(1,0,-55)
+            // this.model.position.set(1,0,-55)
 
             // wall collision with player //
 
